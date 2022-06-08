@@ -1,6 +1,6 @@
 ### Hi, I'm McTyler 👋
 
-[![LinkedIn](https://logos-world.net/linkedin-logo/)](www.linkedin.com/in/mctyler-tong) 
+[LinkedIn](www.linkedin.com/in/mctyler-tong) 
 
 Student @ Arizona State University
 
