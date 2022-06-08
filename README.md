@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi, I'm McTyler 👋
 
-<!--
-**mctylertong/mctylertong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn]([https://logos-world.net/linkedin-logo/](https://cdn-icons-png.flaticon.com/512/174/174857.png))](www.linkedin.com/in/mctyler-tong) 
 
-Here are some ideas to get you started:
+Student @ Arizona State University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+export default () => ({
+  technologies: {
+    "Programming Languages": ["Java", "React"]
+    "Others": [VS Code, Eclipse]
+  },
+  "Experience": [
+    "3 years of Java courses @ Lane Tech High School",
+    "1 year of Java @ Arizona State University",
+    "Completion of 'React Front To Back 2022' Udemy Course"
+  ],
+  "Skills": [
+    "Leadership", "Problem Solving", "Delegation", 
+    "Open Mindset", "Team Player", "Intrepid Learner",
+  ],
+  "Interests": [
+    "Learning", "Football", "Sky Diving",
+    "Working Out", "Movies", "Nature"
+  ]
+})
+```
+
