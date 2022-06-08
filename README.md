@@ -22,6 +22,9 @@ export default () => ({
   "Interests": [
     "Learning", "Football", "Sky Diving",
     "Working Out", "Movies", "Nature"
+  ],
+  "Currently Working On": [
+    "Node.js", "C", "C++"
   ]
 })
 ```
