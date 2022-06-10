@@ -1,6 +1,6 @@
 ### Hi, I'm McTyler 👋
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mctyler-tong/)](www.linkedin.com/in/mctyler-tong) 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mctyler-tong/)](www.linkedin.com/in/mctyler-tong/) 
 
 Student @ Arizona State University
 
