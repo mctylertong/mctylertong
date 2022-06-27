@@ -13,7 +13,7 @@ export default () => ({
   "Experience": [
     "3 years of Java courses @ Lane Tech High School",
     "1 year of Java @ Arizona State University",
-    "Completion of 'React Front To Back 2022' Udemy Course"
+    "React Certification"
   ],
   "Skills": [
     "Leadership", "Problem Solving", "Delegation", 
