@@ -7,12 +7,15 @@ Student @ Arizona State University
 ```js
 export default () => ({
   technologies: {
-    "Programming Languages": ["Java", "React"]
+    "Programming Languages": ["Java", "React", "C#", "C++", "Javascript", "Python", "HTML", "CSS", "Swift"]
     "Others": [VS Code, Eclipse]
   },
   "Experience": [
     "3 years of Java courses @ Lane Tech High School",
-    "1 year of Java @ Arizona State University",
+    "2 year of Java @ Arizona State University",
+    "2 year of C++/C @ Arizona State University",
+    "1 year of Swift, Python @ Arizona State University",
+    "1 year of C#, Javascript, HTML, CSS @ Kimley-Horn",
     "React Certification"
   ],
   "Skills": [
