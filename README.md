@@ -29,9 +29,10 @@ export default () => ({
     "Senior Patrol Leader @ Boy Scouts (Sept 2019 – April 2021)"
   ],
   "Projects": [
-    "House Marketplace - RAG-powered Q&A system using OpenAI GPT-3.5 Turbo & vector database",
-    "Support Desk App - Machine learning-based ticket classification with Scikit-learn",
-    "Cocktail Compass - ML-powered ingredient recommendation system using CoreML & geospatial analytics"
+    "House Marketplace",
+    "Support Desk App",
+    "Cocktail Compass",
+    "Machine Learning"
   ],
   "Skills": [
     "Leadership", "Problem Solving", "Delegation",
