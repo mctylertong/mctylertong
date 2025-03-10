@@ -7,28 +7,44 @@ Student @ Arizona State University
 ```js
 export default () => ({
   technologies: {
-    "Programming Languages": ["Java", "React", "C#", "C++", "Javascript", "Python", "HTML", "CSS", "Swift"]
-    "Others": [VS Code, Eclipse]
+    "Programming Languages": [
+      "Java", "Python", "JavaScript", "C++", "C#", "CSS", "HTML", "Swift"
+    ],
+    "Frameworks/Libraries": [
+      "Node.js", "React", "Angular", "PyTorch", "Scikit-learn"
+    ],
+    "Databases": [
+      "Oracle", "MongoDB", "Microsoft SQL Server", "Firebase", "PostgreSQL"
+    ],
+    "Testing Tools": [
+      "Postman", "DevTools", "Swagger", "Visual Studio Debugger"
+    ],
+    "Cloud/MLOps": [
+      "Azure DevOps", "TFS", "Git", "Docker"
+    ]
   },
   "Experience": [
-    "3 years of Java courses @ Lane Tech High School",
-    "2 year of Java @ Arizona State University",
-    "2 year of C++/C @ Arizona State University",
-    "1 year of Swift, Python @ Arizona State University",
-    "1 year of C#, Javascript, HTML, CSS @ Kimley-Horn",
-    "React Certification"
+    "Software Engineer @ Kimley-Horn (May 2024 – Present)",
+    "Software Engineer Intern @ Coho System (May 2022 – August 2022)",
+    "Senior Patrol Leader @ Boy Scouts (Sept 2019 – April 2021)"
+  ],
+  "Projects": [
+    "House Marketplace - RAG-powered Q&A system using OpenAI GPT-3.5 Turbo & vector database",
+    "Support Desk App - Machine learning-based ticket classification with Scikit-learn",
+    "Cocktail Compass - ML-powered ingredient recommendation system using CoreML & geospatial analytics"
   ],
   "Skills": [
-    "Leadership", "Problem Solving", "Delegation", 
-    "Open Mindset", "Team Player", "Intrepid Learner",
+    "Leadership", "Problem Solving", "Delegation",
+    "Open Mindset", "Team Player", "Intrepid Learner"
   ],
   "Interests": [
     "Learning", "Football", "Sky Diving",
     "Working Out", "Movies", "Nature"
   ],
   "Currently Working On": [
-    "Node.js", "C", "C++"
+    "Cloud Architecture", "Machine Learning", "Full-Stack Development"
   ]
-})
+});
+
 ```
 
